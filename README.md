@@ -1,1 +1,1 @@
-# Some comment here (will not be show)
+Не пытайтесь копировать данный код, так кодить нельзя!
